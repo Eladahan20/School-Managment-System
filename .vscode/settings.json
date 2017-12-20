@@ -1,0 +1,12 @@
+{
+
+        "files.autoSave": "afterDelay",
+        "phpformatter.pharPath": "C:/xampp/php/php-cs-fixer-v2.phar",
+        "phpformatter.phpPath": "C:/xampp/php/php.exe",
+        "phpformatter.arguments": [
+            "--level=psr2",
+            "--custom-settings=c:/xampp/php/settings.php_cs",
+            "--fixers=linefeed,short_tag,indentation"
+        ]
+
+}
