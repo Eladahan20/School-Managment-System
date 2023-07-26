@@ -1,3 +1,6 @@
+This is aschool managment app for manageres.
+Submitted for John Bryce Course FS course 2017.
+
 1.Inside 'app' directory you will find the file 'config.php', which contains the address of the main URLS used in this application.
 change it according to your workaround.
 
@@ -6,7 +9,6 @@ change it according to your workaround.
 3. username to owner is: edahan@gmail.com, password is 123456.
 
 4. Do not edit or delete the .htaccess files.
-
 
 
 
